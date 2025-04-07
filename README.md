@@ -87,6 +87,10 @@ The project adopts a modern full-stack architecture:
 - [Setup Guide]() - Detailed environment setup guide
 - [Contract Address](https://edu-chain-testnet.blockscout.com/address/0xf9c82472546213c797264D7A84F5e1591A2484Eb?tab=txs) - 0xf9c82472546213c797264D7A84F5e1591A2484Eb
 
+## 📚 AI & Plagrism Report
+- [Plagarism Report](https://drive.google.com/file/d/1DTWquVH5ArJ5INpNbgG9R4W7q68Oyuhr/view?usp=drive_link)
+- [AI Report](https://drive.google.com/file/d/1_U9U7YuPmVSLGYsT5Zc1-sLsyO-cYZXl/view?usp=drive_link)
+
 ## 🤝 Contributing
 
 Contributions are welcome via Issues and Pull Requests!
